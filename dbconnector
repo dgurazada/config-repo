@@ -1,0 +1,4 @@
+username: copart
+password:copartcopart
+
+jdbc: as400//jdbc:username@copart.com
